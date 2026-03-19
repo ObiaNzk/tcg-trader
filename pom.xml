@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.brubank.tcgtrader</groupId>
+    <groupId>com.tcgtrader</groupId>
     <artifactId>tcg-trader</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tcg-trader</name>
